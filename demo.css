@@ -1,0 +1,25 @@
+body{
+    background-color: #eee;
+    font-size:130px;
+    text-shadow:10px 10px 10px #666;
+}
+div{
+    text-shadow:none;
+    background:rgba(255,255,255,.8);
+    font-size:40px;
+    padding:10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #333;
+    max-width:500px;
+    margin-bottom:20px;
+}
+#otherDemos{
+    margin-top:20px;
+    font-size:20px;
+}
+a{
+    color:black;
+}
+.label {
+    font-size: 20px;;
+}
